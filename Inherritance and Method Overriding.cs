@@ -27,7 +27,7 @@ class Cat : Animal
     }
 }
 
-class InheritanceDemo
+class Inheritance
 {
     static void Main()
     {
