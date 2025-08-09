@@ -40,7 +40,7 @@ class Rectangle : Shape
     }
 }
 
-class AbstractClassDemo
+class AbstractClass
 {
     static void Main()
     {
